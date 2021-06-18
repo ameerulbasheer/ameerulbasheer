@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ameerulbasheer
+- 👀 I’m interested in UI & UX Design
+- 🌱 I’m currently learning UX Design and Swift
+- 💞️ I’m looking to collaborate on tech development for social impact.
+- 📫 How to reach me via email at ameerulbasheer@outlook.com
